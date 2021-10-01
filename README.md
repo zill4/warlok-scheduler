@@ -18,4 +18,4 @@ see [website](https://zill4.github.io/warlok-scheduler/index.html)
 
 ### Screenshot
 
-![alt text](https://github.com/zill4/warlok-scheduler/blob/main/vue.png?raw=true)
+![alt text](https://raw.githubusercontent.com/zill4/warlok-scheduler/main/public/images/vue.PNG)
