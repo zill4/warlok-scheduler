@@ -1,24 +1,21 @@
-# app
+# Warlok (Smart) Stream Scheduler
 
-## Project setup
-```
-yarn install
-```
+## Project Description
+Currently no so 'smart' this scheduler built with VueJS is a starting point for a larger project.
+Eventually I would like to integrate this into the larger Warlok project.
+Before that happens I need to decide whether to stick with VueJS or NextJS with React.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+so far Vue is winning.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+I need to migrate the backend from Firebase to Go on Google Cloud with MongoDB
 
-### Lints and fixes files
-```
-yarn lint
-```
+Then it will be important to integrate with the Twitch, YouTube, and IGDB apis.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Checkout what has been built so far
+see [website](https://zill4.github.io/warlok-scheduler/index.html)
+
+
+### Screenshot
+
+![alt text](https://github.com/zill4/warlok-scheduler/blob/main/vue.png?raw=true)
